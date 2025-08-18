@@ -49,7 +49,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkxdTlxdWhrenFzaWxhdXlxYzd6cjJiNWcxMnhhOGJ1Y3Bueml0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1drhyVxFobostxN8c/giphy.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkxdTlxdWhrenFzaWxhdXlxYzd6cjJiNWcxMnhhOGJ1Y3Bueml0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1drhyVxFobostxN8c/giphy.gif"  />
 
 ###
 
